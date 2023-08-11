@@ -1,0 +1,203 @@
+questions_set_1 = [
+    {
+        "question_1": "What is the capital of France?",
+        "option_1": "Delhi",
+        "option_2": "New York",
+        "option_3": "Moscow",
+        "correct_option": "Paris"
+    },
+    {
+        "question_1": "Largest planet in our solar system?",
+        "option_1": "Mercury",
+        "option_2": "Venus",
+        "option_3": "Earth",
+        "correct_option": "Jupiter"
+    },
+    {
+        "question_1": "Smallest planet in our solar system?",
+        "option_1": "Jupiter",
+        "option_2": "Venus",
+        "option_3": "Earth",
+        "correct_option": "Mercury"
+    },
+    
+    {
+        "question_1": "Largest mammel on earth ???",
+        "option_1": "Shark",
+        "option_2": "Elephant",
+        "option_3": "Dolphin",
+        "correct_option": "Blue Whale"
+    }   
+]
+
+questions_set_2 = [
+    {
+        "question_2": "What is the largest desert in the world?",
+        "option_1": "Thar Desert",
+        "option_2": "Gobi Desert",
+        "option_3": "Atacama Desert",
+        "correct_option": "Sahara Desert"
+    },
+    {
+        "question_2": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+        "option_1": "John Steinbeck",
+        "option_2": "Sarthak Singh",
+        "option_3": "Rajnish Sing",
+        "correct_option": "Harper Lee"
+    },
+    {
+        "question_2": "What is the capital of Italy?",
+        "option_1": "Paris",
+        "option_2": "Madrid",
+        "option_3": "New Delhi",
+        "correct_option": "Rome"
+    },
+    {
+        "question_2": "Who painted the famous artwork 'The Last Supper'?",
+        "option_1": "Sarthak Singh",
+        "option_2": "Vincent van Gogh",
+        "option_3": "Rajnish Singh",
+        "correct_option": "Leonardo da Vinci"
+    }
+]
+
+questions_set_3 = [
+    {
+        "question": "Smallest country in the world?",
+        "option_1": "San Marino",
+        "option_2": "Monaco",
+        "option_3": "India",
+        "correct_option": "Vatican City"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "option_1": "Ganga River",
+        "option_2": "Amazon River",
+        "option_3": "Yangtze River",
+        "correct_option": "Nile River"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "option_1": "Rupees",
+        "option_2": "Euro",
+        "option_3": "Dollar",
+        "correct_option": "Yen"
+    },
+    {
+        "question": "Who is the 'Father of the Nation' in India?",
+        "option_1": "Sarthak Singh",
+        "option_2": "Jawaharlal Nehru",
+        "option_3": "Sardar Vallabhbhai Patel",
+        "correct_option": "Mahatma Gandhi"
+    }
+]
+
+questions_set_4 = [
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "option_1": "Earth",
+        "option_2": "Venus",
+        "option_3": "Jupiter",
+        "correct_option": "Mars"
+    },
+    {
+        "question": "What is the largest animal in the world?",
+        "option_1": "Giraffe",
+        "option_2": "Dolphin",
+        "option_3": "Elephant",
+        "correct_option": "Blue Whale"
+    },
+    {
+        "question": "Which country is both in Europe and Asia?",
+        "option_1": "America",
+        "option_2": "Egypt",
+        "option_3": "South Africa",
+        "correct_option": "Turkey"
+    },
+    {
+        "question": "What is the oldest language of the world?",
+        "option_1": "Japanese",
+        "option_2": "English",
+        "option_3": "Spanish",
+        "correct_option": "Sanskrit"
+    }
+]
+
+questions_set_5 = [
+    {
+        "question": "Who formulated the theory of relativity?",
+        "option_1": "Isaac Newton",
+        "option_2": "S.S Ramanujan",
+        "option_3": "Stephen Hawking",
+        "correct_option": "Albert Einstein"
+    },
+    {
+        "question": "What is the name of the river that flows through Egypt?",
+        "option_1": "Nile",
+        "option_2": "Amazon",
+        "option_3": "Danube",
+        "correct_option": "Nile"
+    }
+]
+
+questions_set_6 = [
+    {
+        "question": "What is the largest organ in the human body?",
+        "option_1": "Liver",
+        "option_2": "Brain",
+        "option_3": "Intestine",
+        "correct_option": "Skin"
+    },
+    {
+        "question": "What is the capital city of Spain?",
+        "option_1": "Barcelona",
+        "option_2": "New Delhi",
+        "option_3": "Seville",
+        "correct_option": "Madrid"
+    },
+    {
+        "question": "Which of the following is not a type of cloud?",
+        "option_1": "Stratus",
+        "option_2": "Cumulus",
+        "option_3": "Nimbus",
+        "correct_option": "Rainbow"
+    },
+    {
+        "question": "What is the name of the tallest mountain in Africa?",
+        "option_1": "Mount Ketu",
+        "option_2": "Mount Everest",
+        "option_3": "Mount Fuji",
+        "correct_option": "Mount Kilimanjaro"
+    }
+]
+
+questions_set_7 = [
+    {
+        "question": "Which country is both an island and a continent?",
+        "option_1": "Madagascar",
+        "option_2": "New Zealand",
+        "option_3": "India",
+        "correct_option": "Australia"
+    },
+    {
+        "question": "Plant prepares food by the process of ???",
+        "option_1": "Excretion",
+        "option_2": "Respiration",
+        "option_3": "Fermentation",
+        "correct_option": "Photosynthesis"
+    },
+    {
+        "question": "Which planet is the closest to the sun?",
+        "option_1": "Venus",
+        "option_2": "Earth",
+        "option_3": "Mars",
+        "correct_option": "Mercury"
+    },
+    {
+        "question": "Which is the largest living bird?",
+        "option_1": "Parrow",
+        "option_2": "Emu",
+        "option_3": "Penguin",
+        "correct_option": "Ostrich"
+    }
+]
